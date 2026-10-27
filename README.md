@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="slapvibe-banner.png" alt="SLAPVIBE — Software, AI, Digital Products" width="100%">
+</div>
+
+---
+<img width="2172" height="724" alt="SLAPVIBE_ Neon Future Studio" src="https://github.com/user-attachments/assets/83544ec6-01ff-49d6-8414-c46770845373" />
+<div align="center">
   <h1>SLAPVIBE</h1>
   <p><strong>SOFTWARE · AI · DIGITAL PRODUCTS</strong></p>
   <p>Engineering ideas into experiences.</p>
