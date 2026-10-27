@@ -5,8 +5,6 @@
 </div>
 
 ---
-# SLAPVIBE
-
 ### Engineering ideas into experiences.
 
 We explore the intersection of **software, artificial intelligence, and digital innovation** — turning ambitious ideas into practical, thoughtfully designed digital products.
