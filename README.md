@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>SLAPVIBE</h1>
+  <p><strong>SOFTWARE · AI · DIGITAL PRODUCTS</strong></p>
+  <p>Engineering ideas into experiences.</p>
+</div>
+
+---
 # SLAPVIBE
 
 ### Engineering ideas into experiences.
